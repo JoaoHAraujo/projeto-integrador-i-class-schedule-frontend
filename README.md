@@ -1,6 +1,6 @@
 # Visão geral do sistema
 
-Este é um fork do projeto desenvolvido em equipe.
+Este é um fork do front-end do projeto desenvolvido em equipe.
 
 O produto inicialmente tem como objetivo, facilitar o processo de Manter professores, disciplinas e carga horária do instituto federal campus picos(IFPI). Além disso, o mesmo possibilitara a gestão e distribuição de aulas e horários de cada professor. Tudo isso agregado em um sistema bonito, descomplicado e rápido.
 
